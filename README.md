@@ -58,7 +58,3 @@ streamlit run app/streamlit_app.py
 - **Risk:** Flag high-default customers before loan approval
 - **Marketing:** Tailor campaigns to behavioral segments
 - **Revenue:** Recommend relevant products per customer profile
-
-## Author
-
-GUVI MDTE13 — Final Project
