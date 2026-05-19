@@ -2,7 +2,6 @@
 
 **Domain:** Banking  
 **Skills:** Python, Data Science, SQL, Machine Learning  
-**Timeline:** 5-day capstone project
 
 ## Problem Statement
 
