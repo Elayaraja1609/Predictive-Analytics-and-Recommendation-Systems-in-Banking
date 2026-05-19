@@ -1,0 +1,55 @@
+{
+  "optimal_k": 3,
+  "silhouette_score": 0.2818,
+  "davies_bouldin_index": 1.0162,
+  "k_scores": {
+    "2": 0.2796,
+    "3": 0.2818,
+    "4": 0.1945,
+    "5": 0.1918,
+    "6": 0.1842,
+    "7": 0.1822,
+    "8": 0.1769
+  },
+  "cluster_summary": [
+    {
+      "cluster": 0,
+      "txn_count": 10.91,
+      "total_amount": 360702.74,
+      "avg_amount": 33838.99,
+      "std_amount": 31649.68,
+      "max_amount": 100477.15,
+      "txn_frequency": 0.01,
+      "deposit_ratio": 0.42,
+      "withdrawal_ratio": 0.22,
+      "avg_daily_spend": 405.95,
+      "segment_size": 2323
+    },
+    {
+      "cluster": 1,
+      "txn_count": 9.22,
+      "total_amount": 202295.42,
+      "avg_amount": 22091.32,
+      "std_amount": 18363.85,
+      "max_amount": 55774.76,
+      "txn_frequency": 0.01,
+      "deposit_ratio": 0.29,
+      "withdrawal_ratio": 0.27,
+      "avg_daily_spend": 240.17,
+      "segment_size": 2673
+    },
+    {
+      "cluster": 2,
+      "txn_count": 1.0,
+      "total_amount": 33540.15,
+      "avg_amount": 33540.15,
+      "std_amount": 0.0,
+      "max_amount": 33540.15,
+      "txn_frequency": 1.0,
+      "deposit_ratio": 0.67,
+      "withdrawal_ratio": 0.33,
+      "avg_daily_spend": 33540.15,
+      "segment_size": 3
+    }
+  ]
+}

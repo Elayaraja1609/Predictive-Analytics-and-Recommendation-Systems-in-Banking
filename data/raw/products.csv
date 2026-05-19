@@ -1,0 +1,26 @@
+product_id,product_name,category,annual_fee,min_balance
+PROD0001,Savings Plus,savings,3197.13,1250.54
+PROD0002,Premium Checking,checking,1375.15,11160.54
+PROD0003,Gold Credit Card,credit_card,3682.36,33834.97
+PROD0004,Personal Loan,loan,4460.9,4346.94
+PROD0005,Home Loan,mortgage,2109.61,1489.86
+PROD0006,Auto Loan,auto_loan,1093.19,25267.76
+PROD0007,Fixed Deposit 1Y,fixed_deposit,132.68,9941.88
+PROD0008,Mutual Fund Starter,investment,3249.42,27247.07
+PROD0009,Health Insurance,insurance,1102.2,29463.28
+PROD0010,Travel Insurance,insurance,4047.15,324.94
+PROD0011,Business Account,business,4029.1,34906.97
+PROD0012,Student Savings,savings,1701.25,7773.97
+PROD0013,Rewards Credit Card,credit_card,4786.07,16829.73
+PROD0014,Education Loan,loan,463.73,4835.82
+PROD0015,Wealth Management,investment,4237.47,30186.3
+PROD0016,Senior Citizen FD,fixed_deposit,4035.64,36486.59
+PROD0017,NRI Account,checking,2681.14,48655.79
+PROD0018,Overdraft Facility,credit,1892.67,27602.03
+PROD0019,Debit Card Premium,card,4147.02,30925.99
+PROD0020,Mobile Banking Pro,digital,4308.53,28867.61
+PROD0021,Forex Card,card,3522.86,2291.22
+PROD0022,PPF Account,savings,1139.49,14469.4
+PROD0023,Demat Account,investment,398.96,11639.54
+PROD0024,Two-Wheeler Loan,auto_loan,505.01,13898.68
+PROD0025,Crop Insurance,insurance,3178.42,18241.61

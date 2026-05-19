@@ -1,0 +1,7 @@
+{
+  "precision_at_5": 0.0532,
+  "recall_at_5": 0.2659,
+  "map": 0.1219,
+  "ndcg": 0.1572,
+  "evaluated_holdouts": 26041
+}
